@@ -12,7 +12,8 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I'm currently an **IT undergraduate at CINEC Campus**  
+- 🎓 I'm currently an **IT undergraduate at CINEC Campus**
+- 👨‍💻 My favourite language is python.
 - 🧠 I’m exploring Full-Stack Development, UI/UX Design, and Cloud Technologies  
 - 🛠️ I love building practical projects to solve real-world problems  
 - ⚡ Fun fact: **Just call me Siwa!**
