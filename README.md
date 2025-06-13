@@ -29,7 +29,7 @@
   <a href="https://fb.com/siwanthaka savinda de silva" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://instagram.com/siwanthaka savinda de silva" target="_blank">
+  <a href="https://instagram.com/savinda de silva" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/c/imghost" target="_blank">
