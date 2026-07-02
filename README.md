@@ -1,42 +1,42 @@
 ````markdown
 <div align="center">
 
-# Hi 👋 I'm **Siwanthaka Savinda**
+# 👋 Hello, I'm **Siwanthaka Savinda**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=900&color=000000&lines=BSc+(Hons)+Software+Engineering+Undergraduate;Full+Stack+Developer;PHP+%7C+SQL+%7C+React+%7C+Node.js;Power+BI+Developer;Workflow+Automation+with+n8n+%26+Selenium;Networking+Enthusiast;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=850&lines=BSc+(Hons)+Software+Engineering+Undergraduate;Full-Stack+Developer;PHP+%7C+SQL+Developer;Power+BI+Developer;Workflow+Automation+%28n8n+%26+Selenium%29;Networking+Enthusiast;Always+Learning+New+Technologies" />
 
 <br>
 
 <a href="https://siwanthakasavinda.vercel.app">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-0A66C2?style=for-the-badge"/>
 </a>
 
 <a href="https://www.linkedin.com/in/siwanthaka-savinda-de-silva">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://github.com/siwanthaka">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=siwanthaka&style=for-the-badge&color=000000"/>
+<img src="https://komarev.com/ghpvc/?username=siwanthaka&style=for-the-badge&color=blue"/>
 
 </div>
 
 ---
 
-# 💻 About Me
-
-<img align="right" alt="Coding" width="380" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+# 🚀 About Me
 
 ```javascript
-const siwanthaka = {
+const Siwanthaka = {
 
     name: "Siwanthaka Savinda",
 
     education: "BSc (Hons) in Software Engineering (Undergraduate)",
 
     university: "CINEC Campus",
+
+    location: "Sri Lanka",
 
     portfolio: "https://siwanthakasavinda.vercel.app",
 
@@ -48,8 +48,8 @@ const siwanthaka = {
 
     languages: [
         "PHP",
-        "JavaScript",
         "Python",
+        "JavaScript",
         "Java",
         "SQL",
         "C",
@@ -68,8 +68,8 @@ const siwanthaka = {
     backend: [
         "Node.js",
         "Express.js",
-        ".NET",
-        "PHP"
+        "PHP",
+        ".NET"
     ],
 
     databases: [
@@ -84,93 +84,74 @@ const siwanthaka = {
     ],
 
     analytics: [
-        "Power BI",
-        "Business Intelligence",
-        "Data Visualization"
+        "Microsoft Power BI",
+        "Data Visualization",
+        "Business Intelligence"
     ],
 
     additionalSkills: [
-        "Networking",
+        "Computer Networking",
         "REST APIs",
         "Git",
         "GitHub",
         "Docker",
-        "UI/UX",
         "Figma"
     ],
 
     currentlyLearning: [
         "Cloud Computing",
         "Data Engineering",
-        "Software Architecture",
-        "Artificial Intelligence"
+        "Artificial Intelligence",
+        "Software Architecture"
     ],
 
-    motto: "Code • Automate • Analyze • Improve"
+    motto: "Build • Automate • Analyze • Innovate"
 }
 ```
 
 ---
 
-# ⚡ Tech Stack
+# 💻 Tech Stack
 
-<div align="center">
+### Programming Languages
 
-### Languages
+![](https://skillicons.dev/icons?i=php,python,java,js,c,cpp)
 
-<img src="https://skillicons.dev/icons?i=php,python,java,js,c,cpp&perline=6"/>
+### Frontend Development
 
-### Frontend
+![](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs)
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs,tailwind"/>
+### Backend Development
 
-### Backend
+![](https://skillicons.dev/icons?i=nodejs,express,dotnet)
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet"/>
+### Databases
 
-### Database
+![](https://skillicons.dev/icons?i=mysql,mongodb)
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+### Tools & Platforms
 
-### Tools
+![](https://skillicons.dev/icons?i=git,github,docker,vscode,figma,postman)
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,postman"/>
+### Other Technologies
 
-</div>
-
----
-
-# 🚀 Expertise
-
-✔ Full Stack Development
-
-✔ PHP & SQL Development
-
-✔ REST API Development
-
-✔ Microsoft Power BI
-
-✔ Data Visualization
-
-✔ Workflow Automation (n8n)
-
-✔ Browser Automation (Selenium)
-
-✔ Networking Fundamentals
-
-✔ Database Design
-
-✔ UI/UX Design
+- 📊 Microsoft Power BI
+- 🤖 n8n Workflow Automation
+- 🕸 Selenium Automation
+- 🌐 Computer Networking
+- 🔗 REST APIs
+- 📈 Data Visualization
+- ☁️ Cloud Computing (Learning)
 
 ---
 
-# 📊 GitHub Analytics
+# 📈 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=siwanthaka&show_icons=true&theme=default&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=siwanthaka&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siwanthaka&layout=compact&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siwanthaka&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -180,27 +161,27 @@ const siwanthaka = {
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=siwanthaka&theme=default&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=siwanthaka&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 📊 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=siwanthaka&theme=github-light"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=siwanthaka&theme=tokyo-night"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Trophy
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=siwanthaka&theme=flat&no-frame=true&margin-w=12"/>
+<img src="https://github-profile-trophy.vercel.app/?username=siwanthaka&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
 
 </p>
 
@@ -209,51 +190,65 @@ const siwanthaka = {
 # 🚀 Featured Projects
 
 | Project | Description |
-|---------|-------------|
-| 🌐 Portfolio | Personal Developer Portfolio |
-| ❤️ SithaMithuru | AI-powered Elder Care Mobile App |
-| 🚗 ANPR System | Automatic Number Plate Recognition |
-| 🛒 POS System | Inventory & Sales Management |
-| 📊 Power BI Dashboards | Business Intelligence & Analytics |
-| 🤖 Workflow Automation | n8n & Selenium Automation |
+|----------|-------------|
+| 🌐 Personal Portfolio | Modern responsive developer portfolio built with Next.js |
+| ❤️ SithaMithuru | AI-powered Elder Care Mobile Application |
+| 🛒 POS System | Inventory & Sales Management System |
+| 🚗 ANPR System | Automatic Number Plate Recognition Platform |
+| 📊 Power BI Dashboard | Interactive Business Intelligence Dashboards |
+| 🤖 Workflow Automation | Automated business workflows using n8n & Selenium |
 
 ---
 
-# 🌱 Currently Learning
+# 🌍 Portfolio
 
-- ☁️ Cloud Computing
-- 📊 Data Engineering
-- 🤖 Artificial Intelligence
-- 🏗 Software Architecture
-- ⚙️ DevOps
+## 🔗 **https://siwanthakasavinda.vercel.app**
+
+Explore my portfolio to learn more about my:
+
+- 💼 Projects
+- 🛠 Technical Skills
+- 🎓 Education
+- 📜 Certifications
+- 📞 Contact Information
 
 ---
 
-# 🌐 Connect With Me
+# 🤝 Connect With Me
 
 <p align="center">
 
-<a href="https://siwanthakasavinda.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
 <a href="https://www.linkedin.com/in/siwanthaka-savinda-de-silva">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/siwanthaka">
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 </p>
 
 ---
 
-# 💬 Dev Quote
+# ✨ Random Dev Quote
 
 <p align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
@@ -263,7 +258,9 @@ const siwanthaka = {
 
 ## ⭐ Thanks for visiting my profile!
 
-### *"Turning ideas into software, data into insights, and automation into productivity."*
+### *"Building impactful software, automating workflows, and transforming data into insights."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
 
 </div>
 ````
