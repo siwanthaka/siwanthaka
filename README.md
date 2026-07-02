@@ -1,25 +1,24 @@
-````markdown
 <div align="center">
 
 # 👋 Hello, I'm **Siwanthaka Savinda**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=850&lines=BSc+(Hons)+Software+Engineering+Undergraduate;Full-Stack+Developer;PHP+%7C+SQL+Developer;Power+BI+Developer;Workflow+Automation+%28n8n+%26+Selenium%29;Networking+Enthusiast;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=900&lines=BSc+(Hons)+Software+Engineering+Undergraduate;Full+Stack+Developer;PHP+%7C+SQL+Developer;Networking+Enthusiast;Workflow+Automation+(n8n+%26+Selenium);Data+Visualization+%26+Power+BI;Cloud+Computing+Learner;Always+Learning+New+Technologies" />
 
 <br>
 
 <a href="https://siwanthakasavinda.vercel.app">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐 Portfolio-Visit%20Website-0A66C2?style=for-the-badge"/>
 </a>
 
 <a href="https://www.linkedin.com/in/siwanthaka-savinda-de-silva">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:your-email@example.com">
+<a href="mailto:yourmail@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=siwanthaka&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=siwanthaka&style=for-the-badge&color=0e75b6"/>
 
 </div>
 
@@ -30,21 +29,13 @@
 ```javascript
 const Siwanthaka = {
 
-    name: "Siwanthaka Savinda",
-
-    education: "BSc (Hons) in Software Engineering (Undergraduate)",
+    education: "BSc (Hons) Software Engineering (Undergraduate)",
 
     university: "CINEC Campus",
 
     location: "Sri Lanka",
 
     portfolio: "https://siwanthakasavinda.vercel.app",
-
-    role: [
-        "Full Stack Developer",
-        "Power BI Developer",
-        "Workflow Automation Developer"
-    ],
 
     languages: [
         "PHP",
@@ -59,8 +50,8 @@ const Siwanthaka = {
     frontend: [
         "React",
         "Next.js",
-        "HTML5",
-        "CSS3",
+        "HTML",
+        "CSS",
         "Bootstrap",
         "Tailwind CSS"
     ],
@@ -68,80 +59,91 @@ const Siwanthaka = {
     backend: [
         "Node.js",
         "Express.js",
-        "PHP",
-        ".NET"
+        ".NET",
+        "PHP"
     ],
 
     databases: [
         "MySQL",
         "MongoDB",
-        "Oracle SQL"
+        "Oracle"
     ],
 
-    automation: [
+    tools: [
+        "Git",
+        "GitHub",
+        "Docker",
+        "VS Code",
+        "Postman",
+        "Figma",
+        "Power BI",
         "n8n",
         "Selenium"
     ],
 
-    analytics: [
-        "Microsoft Power BI",
+    expertise: [
+        "Full Stack Development",
+        "Networking",
+        "Workflow Automation",
         "Data Visualization",
-        "Business Intelligence"
-    ],
-
-    additionalSkills: [
-        "Computer Networking",
         "REST APIs",
-        "Git",
-        "GitHub",
-        "Docker",
-        "Figma"
-    ],
-
-    currentlyLearning: [
         "Cloud Computing",
-        "Data Engineering",
-        "Artificial Intelligence",
-        "Software Architecture"
+        "Artificial Intelligence"
     ],
 
-    motto: "Build • Automate • Analyze • Innovate"
+    currentFocus: [
+        "Building Scalable Applications",
+        "Power BI Dashboards",
+        "Automation Solutions",
+        "Data Engineering"
+    ]
 }
 ```
 
 ---
 
+# 🎯 Core Expertise
+
+- 💻 Full Stack Web Development
+- ⚙️ Workflow Automation (n8n & Selenium)
+- 📊 Data Visualization & Power BI
+- 🗄️ SQL Database Design
+- 🌐 Computer Networking
+- 🤖 AI & Machine Learning
+- ☁️ Cloud Computing
+- 🔗 REST API Development
+
+---
+
 # 💻 Tech Stack
 
-### Programming Languages
+## Languages
 
 ![](https://skillicons.dev/icons?i=php,python,java,js,c,cpp)
 
-### Frontend Development
+## Frontend
 
 ![](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs)
 
-### Backend Development
+## Backend
 
 ![](https://skillicons.dev/icons?i=nodejs,express,dotnet)
 
-### Databases
+## Database
 
 ![](https://skillicons.dev/icons?i=mysql,mongodb)
 
-### Tools & Platforms
+## Tools
 
-![](https://skillicons.dev/icons?i=git,github,docker,vscode,figma,postman)
+![](https://skillicons.dev/icons?i=git,github,docker,vscode,figma,postman,selenium)
 
-### Other Technologies
+<br>
 
-- 📊 Microsoft Power BI
-- 🤖 n8n Workflow Automation
-- 🕸 Selenium Automation
-- 🌐 Computer Networking
-- 🔗 REST APIs
-- 📈 Data Visualization
-- ☁️ Cloud Computing (Learning)
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Networking-1F6FEB?style=for-the-badge&logo=cisco&logoColor=white"/>
 
 ---
 
@@ -177,7 +179,7 @@ const Siwanthaka = {
 
 ---
 
-# 🏆 GitHub Trophy
+# 🏆 GitHub Trophies
 
 <p align="center">
 
@@ -190,27 +192,39 @@ const Siwanthaka = {
 # 🚀 Featured Projects
 
 | Project | Description |
-|----------|-------------|
-| 🌐 Personal Portfolio | Modern responsive developer portfolio built with Next.js |
-| ❤️ SithaMithuru | AI-powered Elder Care Mobile Application |
-| 🛒 POS System | Inventory & Sales Management System |
-| 🚗 ANPR System | Automatic Number Plate Recognition Platform |
-| 📊 Power BI Dashboard | Interactive Business Intelligence Dashboards |
-| 🤖 Workflow Automation | Automated business workflows using n8n & Selenium |
+|---------|-------------|
+| 🌐 Portfolio Website | Personal portfolio showcasing my projects and skills |
+| 🛒 POS System | Inventory and Sales Management System |
+| 🚗 ANPR System | Automatic Number Plate Recognition |
+| ❤️ SithaMithuru | Elder Care Mobile Application |
+| 📊 Power BI Dashboard | Interactive Business Intelligence Dashboard |
+| 🤖 AI Voice Detection | TensorFlow Keyword Detection System |
+| ⚙️ Workflow Automation | n8n & Selenium Automation Solutions |
 
 ---
 
 # 🌍 Portfolio
 
-## 🔗 **https://siwanthakasavinda.vercel.app**
+### 🔗 https://siwanthakasavinda.vercel.app
 
-Explore my portfolio to learn more about my:
+Visit my portfolio to explore:
 
 - 💼 Projects
-- 🛠 Technical Skills
-- 🎓 Education
-- 📜 Certifications
-- 📞 Contact Information
+- 🛠 Skills
+- 📄 Resume
+- 📫 Contact
+- 🚀 Experience
+
+---
+
+# 📜 Certifications & Learning
+
+- 🎓 BSc (Hons) Software Engineering (Undergraduate)
+- 📊 Microsoft Power BI
+- 🌐 Networking
+- ⚙️ Workflow Automation (n8n & Selenium)
+- ☁️ Cloud Computing
+- 🤖 Artificial Intelligence
 
 ---
 
@@ -222,7 +236,7 @@ Explore my portfolio to learn more about my:
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:your-email@example.com">
+<a href="mailto:yourmail@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
@@ -256,11 +270,16 @@ Explore my portfolio to learn more about my:
 
 <div align="center">
 
-## ⭐ Thanks for visiting my profile!
+## 💡 Motto
 
-### *"Building impactful software, automating workflows, and transforming data into insights."*
+> **"Code. Learn. Build. Automate. Innovate."**
+
+---
+
+## ⭐ Thanks for visiting!
+
+If you like my work, consider giving a ⭐ to my repositories.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
 
 </div>
-````
